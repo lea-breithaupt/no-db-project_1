@@ -1,8 +1,8 @@
-# React + Vite
+# no-db-project 1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project: book and visualize your upcoming hair appointment
 
-Currently, two official plugins are available:
+The user can click on 'book new appt' button and add a new appointment.
+The user can then click on 'schedule appt' and fill out the date, time, main service, additional service, and add a description of what they would like, and then click the 'book' button to save their appointment. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+If there are no upcoming appointments, a message will appear to let the user no that they have no upcoming appointments. 

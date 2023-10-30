@@ -1,0 +1,14 @@
+# Component Hierarchy
+- App
+    - Header
+    - UpcomingAppts
+        - UpcomingApptsHeader
+        - UpcomingApptsRow
+            - DateCell
+            - TimeCell
+            - MainServiceCell
+            - AdditionalServiceCell
+            - DescriptionCell
+            - EditApptBtns
+        - BookNewApptBtn
+    - ComplimentaryMessage
